@@ -1,0 +1,128 @@
+passos callbacks 1256
+carga do atricuto channel
+
+acertar as create tmp tables
+acertar as create tables
+
+update de limpeza
+updates nas user, teams 
+delete from callbacks_tmp;
+delete from aktivate_teams_tmp ;
+delete from message_tmp;
+delete from attachments_tmp; 
+delete from image_labels_tmp;
+delete from details_tmp; 
+delete from members_tmp;
+delete from users_tmp;
+--teams
+delete from participant_tmp;
+delete from reactions_tmp;
+
+CREATE TABLE IF NOT EXISTS Callbacks(
+    channel_id VARCHAR(150) PRIMARY KEY,
+    channel_type VARCHAR(100),
+    cid VARCHAR(155),
+    created_at VARCHAR(155),
+    team_id int,
+    type VARCHAR(100),
+    watcher_count int,
+    user_id int,
+    FOREIGN KEY (user_id) REFERENCES User(user_id)
+    FOREIGN KEY (team_id) REFERENCES Teams(team_id))
+
+Table Message
+    message_id VARCHAR(255) PRIMARY KEY,
+    channel_id VARCHAR(150),
+    attachments VARCHAR(255),
+    cid VARCHAR(155),
+    created_at VARCHAR(155),
+    html VARCHAR(500),
+    latest_reactions VARCHAR(255),
+    mentioned_users VARCHAR(255),
+    own_reactions VARCHAR(255),
+    pin_expires VARCHAR(100),
+    pinned boolean,
+    pinned_at VARCHAR(155),
+    pinned_by VARCHAR(155),
+    reaction_counts VARCHAR(255),
+    reaction_scores VARCHAR(255),
+    reply_count int,
+    shadowed boolean,
+    silent boolean,
+    text VARCHAR(500),
+    type VARCHAR(155),
+    updated_at VARCHAR(155),
+    user_id int,
+    FOREIGN KEY (channel_id) REFERENCES callbacks(channel_id),
+    FOREIGN KEY (user_id) REFERENCES User(user_id)
+    
+
+CREATE TABLE IF NOT EXISTS Members ( 
+    member_id int primary key,
+    channel_id VARCHAR(150),
+    user_id int,
+    banned boolean,
+	channel_role VARCHAR(155),
+	created_at VARCHAR(155),
+	role VARCHAR(155),
+	shadow_banned boolean,
+	updated_at VARCHAR(155),
+	FOREIGN KEY (channel_id) REFERENCES callbacks(channel_id),
+	FOREIGN KEY (user_id) REFERENCES User(user_id))
+	
+
+CREATE TABLE IF NOT EXISTS Users ( 
+    user_id int PRIMARY KEY,
+    created_at VARCHAR(155),
+	created_by int ,
+	name VARCHAR(255),
+	hashed_password VARCHAR(155),
+	banned boolean,
+	channel_unread_count int,
+	channel_last_read_at VARCHAR(155),
+	online boolean,
+	role VARCHAR(50),
+	team_id int,
+	total_unread_count int,
+	unread_channels int,
+	unread_count int,
+	_fivetran_deleted VARCHAR(155), 
+	_fivetran_synced VARCHAR(155), 
+	confirmed_at VARCHAR(255), 
+	email VARCHAR(155), 
+	inserted_at VARCHAR(155), 
+	other_sources VARCHAR(255), 
+	phone_number VARCHAR(50), 
+	last_active VARCHAR(155),
+	updated_at VARCHAR(155), 
+	FOREIGN KEY (other_sources) REFERENCES OtherSources(id), 
+	FOREIGN KEY (team_id) REFERENCES Teams(team_id) )
+       
+       
+Table Participant
+    participant_person_id int primary key,
+    user_id int,
+    participant_name VARCHAR(255),
+	team_id int,
+	FOREIGN KEY (user_id) REFERENCES User(user_id)	 
+	FOREIGN KEY (team_id) REFERENCES Teams(team_id)        	      	       	         	    
+
+
+CREATE TABLE IF NOT EXISTS Teams (
+    team_id	int	primary key,
+    team_name VARCHAR(255),
+    _fivetran_deleted VARCHAR(155), 
+    _fivetran_synced VARCHAR(155), 
+    activity_id VARCHAR(255), 
+    collective_name VARCHAR(155), 
+    gender VARCHAR(50) ,
+    inserted_at VARCHAR(155),
+    name VARCHAR(200), 
+    other_sources VARCHAR(255), 
+    season_id VARCHAR(255) ,
+    team_level VARCHAR(100),
+    updated_at VARCHAR(155), 
+    registration_code VARCHAR(155), 
+    school_activity_id VARCHAR(255), 
+    status VARCHAR(100), 
+    FOREIGN KEY (other_sources) REFERENCES OtherSources(id))

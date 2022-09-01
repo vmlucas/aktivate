@@ -1,0 +1,14 @@
+Preparing the environment: 
+SQL DB used was PostgreSQL
+With Python3 installed
+pip3 install psycopg2
+pip3 install sqlalchemy
+
+Running ETL jobs:
+run load_teams.py
+run load_users.py 
+run pushTokens.py
+run load_callbacks.py 
+run updateTables.py
+
+After that, you can run the queries ´ve made for exemple on the file queries_exemples.sql

@@ -1,0 +1,3 @@
+2022-04-27T18:19:51.759Z,
+{
+"created_at"":""2022-04-27T18:19:49.321572571Z"",""delete_conversation"":"""",""delete_conversation_channels"":false,""delete_messages"":""pruning"",""delete_user"":""pruning"",""hard_delete"":true,""mark_messages_deleted"":true,""type"":""user.deleted"",""user"":{""banned"":false,""created_at"":""2022-04-20T20:30:01.695294Z"",""deleted_at"":""2022-04-27T18:19:49.089059Z"",""id"":""1958"",""online"":false,""role"":""user"",""teams"":[""team-id-85""],""updated_at"":""2022-04-20T20:30:01.695638Z""}}"

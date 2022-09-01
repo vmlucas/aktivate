@@ -1,0 +1,78 @@
+{
+	"channel_id":"parents-team-id-99",
+    "channel_type":"team",
+    "cid":"team:parents-team-id-99",
+    "created_at":"2022-04-27T02:04:38.690331379Z",
+    "team":"team-id-99",
+    "type":"message.read",
+    "user":{
+    	     "banned":false,
+    	     "channel_last_read_at":"2022-04-27T02:04:38.692839424Z",
+    	     "channel_unread_count":0,
+    	     "created_at":"2022-04-20T23:10:01.801711Z",
+    	     "created_by":"6",
+    	     "guardian_of":[{
+    	     	              "participant_name":"Myles Nielson",
+    	     	              "participant_person_id":4478,
+    	     	              "team_id":99,
+    	     	              "team_name":"Boys Lacrosse - Varsity - 99"
+    	     	          }],
+    	     "id":2307,
+    	     "last_active":"2022-04-27T02:04:17.963257388Z",
+    	     "name":"Stacy Nielson",
+    	     "online":true,
+    	     "role":"user",
+    	     "teams":["team-id-99"],
+    	     "total_unread_count":0,
+    	     "unread_channels":0,
+    	     "unread_count":0,
+    	     "updated_at":"2022-04-20T23:10:01.803314Z"
+    	   }
+}
+
+team_id int PRIMARY KEY, _fivetran_deleted VARCHAR(155), _fivetran_synced VARCHAR(155), activity_id VARCHAR(255), collective_name VARCHAR(155), gender VARCHAR(50) ,inserted_at VARCHAR(155),name VARCHAR(200), other_sources VARCHAR(255), season_id VARCHAR(255) ,team_level VARCHAR(100),updated_at VARCHAR(155), registration_code VARCHAR(155), 
+school_activity_id VARCHAR(255), status VARCHAR(100), FOREIGN KEY (other_sources) REFERENCES OtherSources(id))
+
+{
+	"channel_id":"parents-team-id-79",
+	"channel_type":"team",
+	"cid":"team:parents-team-id-79",
+	"created_at":"2022-04-27T17:55:26.226265965Z",
+	"message":{
+		         "attachments":[],
+		         "cid":"team:parents-team-id-79",
+		         "created_at":"2022-04-27T17:55:26.217103Z",
+		         "html":"<p>Thanks for joking the app please respond if you got this <br/>\nI am just checking to see how it works</p>\n",
+		         "id":"2194-f4b74266-056a-4917-0067-1b540c466ef1",
+		         "latest_reactions":[],
+		         "mentioned_users":[],
+		         "own_reactions":[],
+		         "pin_expires":null,
+		         "pinned":false,
+		         "pinned_at":null,
+		         "pinned_by":null,
+		         "reaction_counts":{},
+		         "reaction_scores":{},
+		         "reply_count":0,
+		         "shadowed":false,
+		         "silent":false,
+		         "text":"Thanks for joking the app please respond if you got this \nI am just checking to see how it works ",
+		         "type":"regular",
+		         "updated_at":"2022-04-27T17:55:26.217103Z",
+		         "user":{
+		         	      "banned":false,
+		         	      "created_at":"2022-04-20T22:40:02.023386Z",
+		         	      "created_by":"6",
+		         	      "id":2194,
+		         	      "last_active":"2022-04-27T17:54:48.637540156Z",
+		         	      "name":"Jace McKee",
+		         	      "online":true,
+		         	      "role":"user",
+		         	      "teams":["team-id-79"],
+		         	      "updated_at":"2022-04-20T22:40:02.02359Z"
+		         	    }
+		      },
+	"message_id":"2194-f4b74266-056a-4917-0067-1b540c466ef1",
+	"team":"team-id-79",
+	"type":"message.new",
+	"user"":{""banned"":false,""channel_last_read_at"":""2022-04-27T17:55:26.228854528Z"",""channel_unread_count"":0,""created_at"":""2022-04-20T22:40:02.023386Z"",""created_by"":""6"",""id"":""2194"",""last_active"":""2022-04-27T17:54:48.637540156Z"",""name"":""Jace McKee"",""online"":true,""role"":""user"",""teams"":[""team-id-79""],""total_unread_count"":0,""unread_channels"":0,""unread_count"":0,""updated_at"":""2022-04-20T22:40:02.02359Z""},""watcher_count"":1}"
