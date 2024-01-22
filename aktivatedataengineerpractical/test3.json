@@ -1,0 +1,867 @@
+{
+
+	"channel_id":"parents-team-id-99",
+	"channel_type":"team",
+	"cid":"team:parents-team-id-99",
+	"created_at":"2022-04-27T02:04:47.030736464Z",
+	"members":[{
+		         "banned":false,
+		         "channel_role":"channel_member",
+		         "created_at":"2022-04-20T22:24:37.804482Z",
+		         "role":"member",
+		         "shadow_banned":false,
+		         "updated_at":"2022-04-20T22:24:37.804482Z",
+		         "user":{
+		         	      "banned":false,
+		         	      "channel_unread_count":2,
+		         	      "created_at":"2022-04-20T23:10:01.765486Z",
+		         	      "created_by":"6",
+		         	      "guardian_of":[{
+		         	      	               "participant_name":"Wyatt Anderson",
+		         	      	               "participant_person_id":4491,
+		         	      	               "team_id":99,
+		         	      	               "team_name":"Boys Lacrosse - Varsity - 99"
+		         	      	            }],
+		         	      "id":2320,
+		         	      "name":"Alan anderson",
+		         	      "online":false,
+		         	      "role":"user",
+		         	      "teams":["team-id-99"],
+		         	      "total_unread_count":2,
+		         	      "unread_channels":1,
+		         	      "unread_count":2,
+		         	      "updated_at":"2022-04-20T23:10:01.767028Z"
+		         	    },
+		         "user_id":2320
+		       },
+		       {
+
+		       	 "banned":false,
+
+		       	 "channel_role":"channel_member",
+
+		       	 "created_at":"2022-04-20T22:24:37.804632Z",
+
+		       	 "role":"member",
+
+		       	 "shadow_banned":false,
+
+		       	 "updated_at":"2022-04-20T22:24:37.804632Z",
+
+		       	 "user":{
+
+		       	 	      "banned":false,
+
+		       	 	      "channel_unread_count":2,
+
+		       	 	      "created_at":"2022-04-20T23:10:01.765668Z",
+
+		       	 	      "created_by":"6",
+
+		       	 	      "guardian_of":[{
+
+		       	 	      	              "participant_name":"Tasian Garza",
+
+		       	 	      	              "participant_person_id":4490,
+
+		       	 	      	              "team_id":99,
+
+		       	 	      	              "team_name":"Boys Lacrosse - Varsity - 99"
+		       	 	      	            }],
+
+		       	 	      "id":2319,
+
+		       	 	      "name":"Ashleigh Garza",
+
+		       	 	      "online":false,
+
+		       	 	      "role":"user",
+
+		       	 	      "teams":["team-id-99"],
+
+		       	 	      "total_unread_count":2,
+
+		       	 	      "unread_channels":1,
+
+		       	 	      "unread_count":2,
+
+		       	 	      "updated_at":"2022-04-20T23:10:01.767034Z"
+		       	 	  },
+
+		       	 "user_id":2319
+		       },
+
+		       {
+
+		       	 "banned":false,
+
+		       	 "channel_role":"channel_member",
+
+		       	 "created_at":"2022-04-20T22:24:37.804839Z",
+
+		       	 "role":"member",
+
+		       	 "shadow_banned":false,
+
+		       	 "updated_at":"2022-04-20T22:24:37.804839Z",
+
+		       	 "user":{
+
+		       	 	      "banned":false,
+
+		       	 	      "channel_unread_count":2,
+
+		       	 	      "created_at":"2022-04-20T23:10:01.76619Z",
+
+		       	 	      "created_by":"6",
+
+		       	 	      "guardian_of":[{
+
+		       	 	      	               "participant_name":"Dakota Julander",
+
+		       	 	      	               "participant_person_id":4481,
+
+		       	 	      	               "team_id":99,
+
+		       	 	      	               "team_name":"Boys Lacrosse - Varsity - 99"
+		       	 	      	             }],
+
+		       	 	      "id":2310,
+
+		       	 	      "name":"Dakota Julander",
+
+		       	 	      "online":false,
+
+		       	 	      "role":"user",
+
+		       	 	      "teams":["team-id-99"],
+
+		       	 	      "total_unread_count":2,
+
+		       	 	      "unread_channels":1,
+
+		       	 	      "unread_count":2,
+
+		       	 	      "updated_at":"2022-04-20T23:10:01.767045Z"
+		       	 	    },
+
+		       	 "user_id":2310
+		       },
+
+		       {
+
+		       	 "banned":false,
+
+		       	 "channel_role":"channel_member",
+
+		       	 "created_at":"2022-04-20T22:24:37.804854Z",
+
+                 "role":"member",
+
+                 "shadow_banned":false,
+
+                 "updated_at":"2022-04-20T22:24:37.804854Z",
+
+                 "user":{
+
+                 	       "banned":false,
+
+                           "channel_unread_count":2,
+
+                           "created_at":"2022-04-20T23:10:01.766242Z",
+
+                           "created_by":"6",
+
+                           "guardian_of":[{
+
+                           	                "participant_name":"Kaden Carbine",
+
+                           	                "participant_person_id":4470,
+
+                           	                "team_id":99,
+
+                           	                "team_name":"Boys Lacrosse - Varsity - 99"
+                           	              }],
+
+                           "id":2301,
+
+                           "name":"Debby Carbine",
+
+                           "online":false,
+
+                           "role":"user",
+
+                           "teams":["team-id-99"],
+
+                           "total_unread_count":2,
+
+                           "unread_channels":1,
+
+                           "unread_count":2,
+
+                           "updated_at":"2022-04-20T23:10:01.767046Z"
+                         },
+
+                 "user_id":2301
+              },
+
+              {
+
+              	"banned":false,
+
+              	"channel_role":"channel_member",
+
+              	"created_at":"2022-04-20T22:24:37.804865Z",
+
+              	"role":"member",
+
+              	"shadow_banned":false,
+
+              	"updated_at":"2022-04-20T22:24:37.804865Z",
+
+              	"user":{
+
+              		      "banned":false,
+
+              		      "channel_unread_count":2,
+
+              		      "created_at":"2022-04-20T23:10:01.76627Z",
+
+              		      "created_by":"6",
+
+              		      "guardian_of":[{
+
+              		      	               "participant_name":"Max Anderson",
+
+              		      	               "participant_person_id":4486,
+
+              		      	               "team_id":99,
+
+              		      	               "team_name":"Boys Lacrosse - Varsity - 99"
+              		      	             }],
+
+              		      "id":2315,
+
+              		      "name":"Derek Anderson",
+
+              		      "online":false,
+
+              		      "role":"user",
+
+              		      "teams":["team-id-99"],
+
+              		      "total_unread_count":2,
+
+              		      "unread_channels":1,
+
+              		      "unread_count":2,
+
+              		      "updated_at":"2022-04-20T23:10:01.767046Z"
+              		   },
+
+                "user_id":2315
+               },
+
+               {
+               	"banned":false,
+               	"channel_role":"channel_member",
+               	"created_at":"2022-04-20T22:24:37.804914Z",
+               	"role":"member",
+               	"shadow_banned":false,
+                "updated_at":"2022-04-20T22:24:37.804914Z",
+                "user":{
+                        "banned":false,
+                        "channel_unread_count":2,
+                        "created_at":"2022-04-20T23:10:01.766409Z",
+                        "created_by":"6",
+                        "guardian_of":[{
+"participant_name":"Tyler Owen",
+
+"participant_person_id":4489,
+
+"team_id":99,
+
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+
+"id":"2318",
+
+"name":"Jamie Owen",
+
+"online":false,
+
+"role":"user",
+
+"teams":["team-id-99"],
+
+"total_unread_count":2,
+
+"unread_channels":1,
+
+"unread_count":2,
+
+"updated_at":"2022-04-20T23:10:01.76705Z"},
+
+"user_id":"2318"},
+
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.804926Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.804926Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.766446Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Gavyn Haws",
+"participant_person_id":4476,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2306",
+"name":"Jayson Haws",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.767053Z"},
+"user_id":"2306"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.804949Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.804949Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.766503Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Maxwell Cragun",
+"participant_person_id":4482,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2311",
+"name":"Jennifer Cragun",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.767054Z"},
+"user_id":"2311"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805146Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805146Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.766642Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Sawyer Davis",
+"participant_person_id":4469,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2300",
+"name":"Jessika Davis",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.767058Z"},
+"user_id":"2300"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805151Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805151Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.766655Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Owen Hess",
+"participant_person_id":4472,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2303",
+"name":"Joelle Hess",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.767058Z"},
+"user_id":"2303"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805238Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805238Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.766778Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Gunnar Shelton",
+"participant_person_id":4487,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2316",
+"last_active":"2022-04-26T15:29:03.379984054Z",
+"name":"Karrie Shelton",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.767063Z"},
+"user_id":"2316"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805416Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805416Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.80119Z",
+"created_by":"6",
+"guardian_of":[{
+          "participant_name":"Brennan Booth",
+          "participant_person_id":4484,
+          "team_id":99,
+          "team_name":"Boys Lacrosse - Varsity - 99"},
+          {
+          "participant_name":"Megan Booth",
+        "participant_person_id":4509,
+"team_id":100,
+"team_name":"Girls Cross Country - 100"}],
+"id":"2313",
+"name":"Lisa Bringhurst",
+"online":false,
+"role":"user",
+"teams":["team-id-99",
+"team-id-100"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.8033Z"},
+"user_id":"2313"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805424Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805424Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.801209Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Kache Johnson",
+"participant_person_id":4474,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2304",
+"name":"Liz Johnson",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.8033Z"},
+"user_id":"2304"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805461Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805461Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.801341Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Michael Evans",
+"participant_person_id":4471,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2302",
+"name":"Melanie Evans",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.803304Z"},
+"user_id":"2302"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.80549Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.80549Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.801464Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Corbin Packer",
+"participant_person_id":4480,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2309",
+"name":"Nate Packer",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.803308Z"},
+"user_id":"2309"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.80559Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.80559Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.801609Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Bryson Cook",
+"participant_person_id":4479,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2308",
+"name":"Shayla Cook",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.803313Z"},
+"user_id":"2308"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805888Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805888Z",
+"user":{
+"banned":false,
+"channel_last_read_at":"2022-04-27T02:04:47.063980032Z",
+"channel_unread_count":0,
+"created_at":"2022-04-20T23:10:01.801711Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Myles Nielson",
+"participant_person_id":4478,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2307",
+"last_active":"2022-04-27T02:04:17.963257388Z",
+"name":"Stacy Nielson",
+"online":true,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":0,
+"unread_channels":0,
+"unread_count":0,
+"updated_at":"2022-04-20T23:10:01.803314Z"},
+"user_id":"2307"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.80592Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.80592Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.801775Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Connor Koyle",
+"participant_person_id":4483,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2312",
+"name":"Tara Koyle",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.803317Z"},
+"user_id":"2312"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805926Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805926Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.801796Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Kash Avery",
+"participant_person_id":4468,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"},
+{
+"participant_name":"Kase Avery",
+"participant_person_id":4473,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2299",
+"name":"Tarena Avery",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.803318Z"},
+"user_id":"2299"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805952Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805952Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.801851Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Cougar Christensen",
+"participant_person_id":4485,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2314",
+"name":"Tiffany Mansfield",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.803319Z"},
+"user_id":"2314"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805972Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805972Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.801877Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Carson Van Tassell",
+"participant_person_id":4488,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2317",
+"name":"Trent Van+Tassell",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.803321Z"},
+"user_id":"2317"},
+{
+"banned":false,
+"channel_role":"channel_member",
+"created_at":"2022-04-20T22:24:37.805988Z",
+"role":"member",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.805988Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.801899Z",
+"created_by":"6",
+"guardian_of":[{
+"participant_name":"Windsor London",
+"participant_person_id":4492,
+"team_id":99,
+"team_name":"Boys Lacrosse - Varsity - 99"}],
+"id":"2321",
+"name":"Windsor London",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.803321Z"},
+"user_id":"2321"},
+{
+"banned":false,
+"channel_role":"channel_moderator",
+"created_at":"2022-04-20T22:24:37.816785Z",
+"is_moderator":true,
+"role":"moderator",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.816785Z",
+"user":{
+"banned":false,
+"channel_unread_count":1,
+"created_at":"2022-04-20T23:10:01.803137Z",
+"created_by":"6",
+"id":"2305",
+"last_active":"2022-04-26T21:55:06.55069808Z",
+"name":"Coj Miller",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":1,
+"unread_channels":1,
+"unread_count":1,
+"updated_at":"2022-04-20T23:10:01.803323Z"},
+"user_id":"2305"},
+{
+"banned":false,
+"channel_role":"channel_moderator",
+"created_at":"2022-04-20T22:24:37.816806Z",
+"is_moderator":true,
+"role":"moderator",
+"shadow_banned":false,
+"updated_at":"2022-04-20T22:24:37.816806Z",
+"user":{
+"banned":false,
+"channel_unread_count":2,
+"created_at":"2022-04-20T23:10:01.80318Z",
+"created_by":"6",
+"id":"2356",
+"name":"Tyler Brimhall",
+"online":false,
+"role":"user",
+"teams":["team-id-99"],
+"total_unread_count":2,
+"unread_channels":1,
+"unread_count":2,
+"updated_at":"2022-04-20T23:10:01.803326Z"},
+"user_id":"2356"}
+],
+"message":{
+         "attachments":[],
+         "cid":"team:parents-team-id-99",
+         "created_at":"2022-04-27T02:04:46.932334Z",
+         "html":"<p>Hi Coj!</p>\n",
+         "id":"2307-56420839-fc8b-43dc-2413-904f7aecbc04",
+         "latest_reactions":[],
+         "mentioned_users":[],
+         "own_reactions":[],
+         "pin_expires":null,
+         "pinned":false,
+         "pinned_at":null,
+         "pinned_by":null,
+         "reaction_counts":{},
+         "reaction_scores":{},
+         "reply_count":0,
+         "shadowed":false,
+         "silent":false,
+         "text":"Hi Coj!",
+         "type":"regular",
+         "updated_at":"2022-04-27T02:04:46.932334Z",
+         "user":{
+            "banned":false,
+            "created_at":"2022-04-20T23:10:01.801711Z",
+            "created_by":"6",
+            "guardian_of":[{
+                         "participant_name":"Myles Nielson",
+                         "participant_person_id":4478,
+                         "team_id":99,
+                         "team_name":"Boys Lacrosse - Varsity - 99"
+                          }],
+            "id":2307,
+            "last_active":"2022-04-27T02:04:17.963257388Z",
+            "name":"Stacy Nielson",
+            "online":true,
+            "role":"user",
+            "teams":["team-id-99"],
+            "updated_at":"2022-04-20T23:10:01.803314Z"
+                 }
+        },
+"message_id":"2307-56420839-fc8b-43dc-2413-904f7aecbc04",
+"team":"team-id-99",
+"type":"message.new",
+"user":{
+       "banned":false,
+       "channel_last_read_at":"2022-04-27T02:04:47.03723008Z",
+       "channel_unread_count":0,
+       "created_at":"2022-04-20T23:10:01.801711Z",
+       "created_by":"6",
+       "guardian_of":[{
+           "participant_name":"Myles Nielson",
+           "participant_person_id":4478,
+           "team_id":99,
+           "team_name":"Boys Lacrosse - Varsity - 99"}],
+       "id":2307,
+       "last_active":"2022-04-27T02:04:17.963257388Z",
+       "name":"Stacy Nielson",
+       "online":true,
+       "role":"user",
+       "teams":["team-id-99"],
+       "total_unread_count":0,
+       "unread_channels":0,
+       "unread_count":0,
+       "updated_at":"2022-04-20T23:10:01.803314Z"
+      },
+"watcher_count":1}"
+
+
